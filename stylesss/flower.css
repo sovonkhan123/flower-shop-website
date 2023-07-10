@@ -1,0 +1,32 @@
+/* common shared styless */
+body {
+    font-family: 'Lato', sans-serif;
+}
+.text-primary {
+    color:  #dd6f85;
+    border-radius: 10px;
+}
+/* header related styles */
+.header {
+    background-color: rgb(187, 170, 170)
+}
+.banner {
+    display: flex;
+    align-items: center;
+}
+.banner .pp {
+    width: 635px;
+    height: 800px;
+    padding: 50px 240px 0px;
+}
+.banner-greeting {
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+}
+/* .banner-dis { */
+    /* padding-left: 200px; */
+/* } */
+.banner-content {
+    padding-left: 200px;
+}
