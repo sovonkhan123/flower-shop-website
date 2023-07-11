@@ -3,8 +3,8 @@ body {
     font-family: 'Lato', sans-serif;
 }
 .text-primary {
-    color:  #dd6f85;
-    border-radius: 10px;
+    background-color: #dd6f85;
+    border-radius: 5px;
 }
 /* header related styles */
 .header {
@@ -30,3 +30,58 @@ body {
 .banner-content {
     padding-left: 200px;
 }
+/* header related styles */
+.Featured {
+    text-align: center;
+    padding-top: 100px;
+}
+.common {
+    font-size: 30px;
+}
+/* main related styles */
+.flower-type {
+    display: flex;
+    align-items: first baseline;
+    padding: 0px 80px;
+    margin: 0px 16px;
+}
+.skill {
+    margin-right: 100px;
+}
+.skill-title {
+    text-align: center;
+}
+.tulip {
+    background-color: powderblue;
+    width: 350px;
+    height: 450px;
+    border-radius: 200px 200px 0px 0px;
+}
+.golap {
+    background-color: blueviolet;
+    width: 350px;
+    height: 450px;
+    border-radius: 200px 200px 0px 0px;
+}
+.joba {
+    background-color: brown;
+    width: 350px;
+    height: 450px;
+    border-radius: 200px 200px 0px 0px;
+}
+.deal {
+    display: flex;
+    align-items: center;
+    padding-right: 50px;
+    background-color: antiquewhite;
+    margin-top: 70px;
+}
+.hot-deal {
+    justify-content: center;
+    padding-left: 200px;
+}
+.instagram {
+    text-align: center;
+    margin-top: 70px;
+}
+
